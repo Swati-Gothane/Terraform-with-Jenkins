@@ -1,0 +1,6 @@
+vpc_cidr_block = "10.1.0.0/16"
+vpc_subnet_1_cidr_block = "10.1.1.0/24"
+vpc_subnet_2_cidr_block = "10.1.2.0/24"
+vpc_availability_1_zone = "eu-west-1a"
+vpc_availability_2_zone = "eu-west-1b"
+cluster_name = "test-cluster"
